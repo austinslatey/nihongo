@@ -1,7 +1,13 @@
-# 日本語練習ファイル (Nihongo renshū fairu)
+# 日本語練習ファイル 
+##### Nihongo renshū fairu
 - Japanese practice files
 
-## 概要 (Gaiyō)
+## 目次 (Mokuji)
+
+1. [概要(Gaiyō)](#概要gaiyō)
+2. [ひらがな(Hiragana)](#ひらがなhiragana)
+
+## 概要(Gaiyō)
 - Overview
 
 これは日本語を学習するための練習ファイルとなる README ファイルです。
@@ -11,7 +17,7 @@ Kore wa nihongo o gakushū suru tame no renshū fairu to naru README fairudesu.
 - This is a README file that will serve as my practice files for learning the Japanese language.
 
 
-## ひらがな (Hiragana)
+## ひらがな(Hiragana)
 
 |     あ a    |     い i     |    う u   |     え e    |    お o       |
 |       -      |      -      |      -    |       -     |        -     |
