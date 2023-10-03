@@ -7,6 +7,7 @@ Japanese practice files
 
 1. [概要(Gaiyō)](#概要gaiyō)
 2. [ひらがな(Hiragana)](#ひらがなhiragana)
+3. [カタカナ(Katakana)](#カタカナkatakana)
 3. [引用(In'yō)](#引用inyō)
 
 ## 概要(Gaiyō)
@@ -64,6 +65,38 @@ This is a README file that will serve as my practice files for learning the Japa
 `Zu' wa sono zen ni `tsu' ga aru baai ni nomi hassei shimasu (rei: `Tsudzuku')
 ```
 - "zu" only occurs when there is a "tsu" before it (e.g. "tsuzuku")
+
+
+## カタカナ(Katakana)
+|     ア a   |     イ i    |    ウ u   |     エ e    |    オ o       |          |           |   キャ kya   |    キュ kyu    |   キョ kyo     |
+|       -      |      -      |      -    |       -     |        -     |    -     |     -     |      -    |       -     |      -      |
+|     カ ka   |     キ ki    |    ク ku   |     ケ ke   |    コ ko     |          |          |   ギャ gya   |    ギュ gyu    |   ギョ gyo     | 
+|       -     |        -     |       -    |      -     |         -    |    -     |     -      |     -    |       -     |      -      |
+|    ガ ga    |     ギ gi    |    グ gu  |     ゲ ge   |    ゴ go    |          |           |   シャ sha   |    シュ shu    |   ショ sho     |
+|       -     |        -     |       -    |      -     |     -        |    -     |     -     |      -    |       -     |      -      |
+|    サ sa    |   シ shi   |   ス su   |    セ se   |   ソ so      |            |           |   ジャ ja   |    ジュ ju    |   ジョ jo     |
+|      -      |      -       |     -      |       -    |      -       |    -     |     -      |      -    |       -     |      -      |
+|    ザ za   |    ジ ji    |   ズ zu   |    ゼ ze   |   ゾ zo     |              |           |   チャ cha   |    チュ chu    |   チョ cho     |
+|      -      |       -      |     -      |      -     |       -      |    -     |     -      |      -    |       -     |      -      |
+|    タ ta  |   チ chi    |  ツ tsu   |    テ te    |   ト to     |            |           |   ニャ nya   |    ニュ nyu    |   ニョ nyo     |
+|      -      |      -       |      -     |     -      |       -      |    -     |     -      |      -    |       -     |      -      |
+|    ダ da   |    ヂ ji    |   ヅ zu   |    デ de    |   ド do    |            |           |   ヒャ hya   |    ヒュ hyu   |   ヒョ hyo     |
+|      -      |       -      |      -     |      -     |      -       |    -     |     -      |      -    |       -     |      -      |
+|    ナ na    |    ニ ni    |   ヌ nu   |   ネ ne    |   ノ no     |            |           |   ビャ bya   |    ビュ byu   |   ビョ byo     |
+|      -      |      -       |     -      |      -     |     -        |    -     |     -      |      -    |       -     |      -      |
+|    ハ ha    |    ヒ hi    |   フ fu   |    ヘ he   |   ホ ho     |            |           |   ピャ pya  |    ピュ pyu    |   ピョ pyo     |
+|       -     |       -      |    -       |     -      |    -         |    -     |     -      |      -    |       -     |      -      |
+|    バ ba    |    ビ bi   |   ブ bu   |    ベ be    |   ボ bo     |            |           |   ミャ mya   |    ミュ myu   |   ミョ myo     |
+|      -      |      -       |     -      |    -       |      -       |    -     |     -     |      -    |       -     |      -      |
+|    パ pa    |    ピ pi    |    プ pu    |    ペ pe     |    ポ po    |         |           |  リャ rya   |    リュ ryu    |   リョ ryo     |
+|      -      |       -      |      -     |     -      |        -     |    -     |     -      |      -    |       -     |      -      |
+|    マ ma    |    ミ mi    |    ム mu    |    メ me      |   モ mo    |          |           |            |           |             |
+|       -     |      -      |    -       |       -    |       -      |    -     |      -     |      -    |       -     |      -      |
+|    ヤ ya    |            |   ユ yu   |            |   ヨ yo     |            |           |             |           |             |
+|      -      |       -      |    -      |     -      |      -       |    -     |      -     |      -    |       -     |      -      |
+|    ラ ra    |    リ ri    |   ル ru    |    レ re   |   ロ ro     |            |           |             |           |             |
+|     -       |      -       |      -      |     -      |      -       |    -     |     -      |      -    |       -     |      -      |
+|    ワ wa    |     ヲ wo   |   ン n/m   |            |            |           |           |            |           |             |
 
 
 ## 引用(In'yō)
