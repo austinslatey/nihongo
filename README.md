@@ -54,16 +54,20 @@ This is a README file that will serve as my practice files for learning the Japa
 |    わ wa    |     を wo   |   ん n/m   |            |            |           |           |            |           |             |
          
 
+
 ```
 「ず」と「ぢ」という文字はほとんど使用されません。
-`Zu' to `dji' to iu moji wa hotondo shiyō sa remasen.
 ```
+
+` 'Zu' to 'dji' to iu moji wa hotondo shiyō sa remasen. `
+
 - The characters "zu" and "ji" are rarely used.
 
 ```
 「ず」はその前に「つ」がある場合にのみ発生します（例：「つづく」）
-`Zu' wa sono zen ni `tsu' ga aru baai ni nomi hassei shimasu (rei: `Tsudzuku')
 ```
+` 'Zu' wa sono zen ni 'tsu' ga aru baai ni nomi hassei shimasu (rei: 'Tsudzuku') `
+
 - "zu" only occurs when there is a "tsu" before it (e.g. "tsuzuku")
 
 
@@ -99,7 +103,25 @@ This is a README file that will serve as my practice files for learning the Japa
 |    ワ wa    |     ヲ wo   |   ン n/m   |            |            |           |           |            |           |             |
 
 
+```
+カタカナは主に外国人名などの外来語や、「コンピュー」タなど他の言語から借用した単語に使用されます。
+```
+
+`Katakana wa omoni gaikoku jinmei nado no gairai-go ya, konpyū'ta nado hoka no gengo kara shakuyō shita tango ni shiyō sa remasu.`
+- Katakana is mainly used for foreign words, such as foreign names, and words borrowed from other languages, such as computers.
+
+- コンピュー = konpyūta = computer
+
+```
+「カタカナ」は、日本語の３つの文字セットのうち、最も普及していません。
+```
+
+`'Katakana' wa, nihongo no 3ttsu no moji setto no uchi, mottomo fukyū shite imasen.`
+- Katakana is the least popular of the three Japanese character sets.
+
+
 ## 引用(In'yō)
 Citations
 ##### FREE JAPANESE LESSONS, 2023. NAGEL LLC | [freejapaneselessons](https://freejapaneselessons.com)
+##### GOOGLE TRANSLATE  | [Translate 日本語->English](https://translate.google.com/?hl=en&tab=TT&sl=ja&tl=en&op=translate)
 
