@@ -8,6 +8,7 @@ Japanese practice files
 1. [概要(Gaiyō)](#概要gaiyō)
 2. [ひらがな(Hiragana)](#ひらがなhiragana)
 3. [カタカナ(Katakana)](#カタカナkatakana)
+3. [単語(Tango)](#単語tango)
 3. [引用(In'yō)](#引用inyō)
 
 ## 概要(Gaiyō)
@@ -120,6 +121,39 @@ This is a README file that will serve as my practice files for learning the Japa
 - Katakana is the least popular of the three Japanese character sets.
 
 
+## 単語(Tango)
+|     漢字 KANJI    |     ひらがな HIRAGANA    |    ROMANJI   |    -    |   DEFINITION    |     -     |
+|       -      |      -      |      -    |       -     |        -     |    -     |
+|     私   |     わたし    |    watashi   |        | I (formal for males, normal for females)    |          | 
+|       -     |        -     |       -    |      -     |         -    |    -     |
+|    僕   |     ぼく     |    boku   |     -  |   I (normal for males)    |          |
+|       -     |        -     |       -    |      -     |     -        |    -     |
+|    彼    |   かれ    |   kare   |    -   |    he      |            |
+|      -      |      -       |     -      |       -    |      -       |    -     |
+|    彼女    |    かのじょ    |   kanojo   |    -    |    she    |              |
+|      -      |       -      |     -      |      -     |       -      |    -     |
+|    あなた    |   あなた    |  anata   |    -    |   you (singular/normal)    |            |
+|      -      |      -       |      -     |     -      |       -      |    -     |
+|    これ    |    これ    |   kore   |    -    |   this (noun)    |            |
+|      -      |       -      |      -     |      -     |      -       |    -     |
+|    ここ    |    ここ    |   koko   |    -   |     here    |            |
+|      -      |      -       |     -      |      -     |     -        |    -     |
+|    この    |    この    |   kono    |    -    |    this (descriptive - ex. this pen)    |            |
+|       -     |       -      |    -       |     -      |    -         |    -     |
+|    それ    |    それ    |   sore   |    -   |    that (noun)   |            |
+|      -      |      -       |     -      |    -       |      -       |    -     |
+|   そこ    |    そこ    |    soko    |    -     |   there     |         |
+|      -      |       -      |      -     |     -      |        -     |    -     |
+|   その    |    その    |    sono    |    -      |    this (descriptive - ex. this pen)    |         |
+|       -     |      -      |    -       |       -    |       -      |    -     |
+|    人  |      ひと      |   hito   |      -      |   person    |            |
+|      -      |       -      |    -      |     -      |      -       |    -     |
+|    犬    |    いぬ    |   inu    |    -   |   dog     |            |
+|     -       |      -       |      -      |     -      |      -       |    -     |
+|    猫    |     ねこ   |   neko   |     -      |      cat      |           |
+|     -       |      -       |      -      |     -      |      -       |    -     |
+|    家    |     いえ   |   ie   |     -      |      house      |           |
+         
 ## 引用(In'yō)
 Citations
 ##### FREE JAPANESE LESSONS, 2023. NAGEL LLC | [freejapaneselessons](https://freejapaneselessons.com)
