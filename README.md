@@ -9,6 +9,7 @@ Japanese practice files
 2. [ひらがな(Hiragana)](#ひらがなhiragana)
 3. [カタカナ(Katakana)](#カタカナkatakana)
 3. [単語(Tango)](#単語tango)
+3. [フレーズ(Furēzu)](#フレーズFurēzu)
 3. [引用(In'yō)](#引用inyō)
 
 ## 概要(Gaiyō)
@@ -105,7 +106,11 @@ This is a README file that will serve as my practice files for learning the Japa
 
 
 ```
-カタカナは主に外国人名などの外来語や、「コンピュー」タなど他の言語から借用した単語に使用されます。
+カタカナは主に外国人名などの外来語や、
+
+「コンピュー」
+
+タなど他の言語から借用した単語に使用されます。
 ```
 
 `Katakana wa omoni gaikoku jinmei nado no gairai-go ya, konpyū'ta nado hoka no gengo kara shakuyō shita tango ni shiyō sa remasu.`
@@ -153,7 +158,46 @@ This is a README file that will serve as my practice files for learning the Japa
 |    猫    |     ねこ   |   neko   |     -      |      cat      |           |
 |     -       |      -       |      -      |     -      |      -       |    -     |
 |    家    |     いえ   |   ie   |     -      |      house      |           |
-         
+
+## フレーズ(Furēzu)
+|     漢字 KANJI    |     ひらがな HIRAGANA    |    ROMANJI   |    -    |   DEFINITION    |     -     |
+|       -      |      -      |      -    |       -     |        -     |    -     |
+|     -   |     ありがとう    |    arigatou   |        | Thank you. (normal)    |          | 
+|       -     |        -     |       -    |      -     |         -    |    -     |
+|    -  |     ありがとうございます     |    arigatou gozaimasu   |     -  |   Thank you. (formal)    |          |
+|       -     |        -     |       -    |      -     |     -        |    -     |
+|    -    |   おはよう    |   ohayou   |    -   |    Good morning. (informal)      |            |
+|      -      |      -       |     -      |       -    |      -       |    -     |
+|    -    |    おはようございます    |   ohayou gozaimasu   |    -    |    Good morning. (normal and formal)    |              |
+|      -      |       -      |     -      |      -     |       -      |    -     |
+|    -    |   あなた    |  anata   |    -    |   you (singular/normal)    |            |
+|      -      |      -       |      -     |     -      |       -      |    -     |
+|    -    |    これ    |   kore   |    -    |   this (noun)    |            |
+|      -      |       -      |      -     |      -     |      -       |    -     |
+|    -   |    ここ    |   koko   |    -   |     here    |            |
+|      -      |      -       |     -      |      -     |     -        |    -     |
+|    -    |    この    |   kono    |    -    |    this (descriptive - ex. this pen)    |            |
+|       -     |       -      |    -       |     -      |    -         |    -     |
+|    -    |    それ    |   sore   |    -   |    that (noun)   |            |
+|      -      |      -       |     -      |    -       |      -       |    -     |
+|    -    |    そこ    |    soko    |    -     |   there     |         |
+|      -      |       -      |      -     |     -      |        -     |    -     |
+|    -    |    その    |    sono    |    -      |    this (descriptive - ex. this pen)    |         |
+|       -     |      -      |    -       |       -    |       -      |    -     |
+|    人  |      ひと      |   hito   |      -      |   person    |            |
+|      -      |       -      |    -      |     -      |      -       |    -     |
+|    犬    |    いぬ    |   inu    |    -   |   dog     |            |
+|     -       |      -       |      -      |     -      |      -       |    -     |
+|    猫    |     ねこ   |   neko   |     -      |      cat      |           |
+|     -       |      -       |      -      |     -      |      -       |    -     |
+|    家    |     いえ   |   ie   |     -      |      house      |           |
+```
+この表には、通常日本語で書かれる漢字が含まれています。
+```
+`Kono hyō ni wa, tsūjō nihongo de kaka reru kanji ga fukuma rete imasu.`
+
+- This table contains kanji as they would normally be written in Japanese.
+
 ## 引用(In'yō)
 Citations
 ##### FREE JAPANESE LESSONS, 2023. NAGEL LLC | [freejapaneselessons](https://freejapaneselessons.com)
