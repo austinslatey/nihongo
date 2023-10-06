@@ -175,27 +175,16 @@ README
 |      -      |      -       |     -      |       -    |      -       |    -     |
 |    -    |    おはようございます    |   ohayou gozaimasu   |    -    |    Good morning. (normal and formal)    |              |
 |      -      |       -      |     -      |      -     |       -      |    -     |
-|    -    |   あなた    |  anata   |    -    |   you (singular/normal)    |            |
+|    -    |   こんにちは    |  kon'nichiwa   |    -    |   Good Afternoon (normal)    |            |
 |      -      |      -       |      -     |     -      |       -      |    -     |
-|    -    |    これ    |   kore   |    -    |   this (noun)    |            |
+|    -    |    こんばんは    |   konbanwa   |    -    |   Good evening. (normal)    |            |
 |      -      |       -      |      -     |      -     |      -       |    -     |
-|    -   |    ここ    |   koko   |    -   |     here    |            |
+|    -   |    さよなら    |   sayonara   |    -   |     Goodbye. (normal)    |            |
 |      -      |      -       |     -      |      -     |     -        |    -     |
-|    -    |    この    |   kono    |    -    |    this (descriptive - ex. this pen)    |            |
+|   頑張ってください   |    がんばってください    |   gambatte kudasai    |    ganbatte kudasai    |    Hang in there    |            |
 |       -     |       -      |    -       |     -      |    -         |    -     |
-|    -    |    それ    |   sore   |    -   |    that (noun)   |            |
-|      -      |      -       |     -      |    -       |      -       |    -     |
-|    -    |    そこ    |    soko    |    -     |   there     |         |
-|      -      |       -      |      -     |     -      |        -     |    -     |
-|    -    |    その    |    sono    |    -      |    this (descriptive - ex. this pen)    |         |
-|       -     |      -      |    -       |       -    |       -      |    -     |
-|    人  |      ひと      |   hito   |      -      |   person    |            |
-|      -      |       -      |    -      |     -      |      -       |    -     |
-|    犬    |    いぬ    |   inu    |    -   |   dog     |            |
-|     -       |      -       |      -      |     -      |      -       |    -     |
-|    猫    |     ねこ   |   neko   |     -      |      cat      |           |
-|     -       |      -       |      -      |     -      |      -       |    -     |
-|    家    |     いえ   |   ie   |     -      |      house      |           |
+|    気をつけてください  |    きをつけてください    |   ki o tsukete kudasai  |  ki wo tsukete kudasai   |    Be careful, Take care   |           |
+------------------------------------
 ```
 この表には、通常日本語で書かれる漢字が含まれています。
 ```
