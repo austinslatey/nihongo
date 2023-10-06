@@ -16,12 +16,17 @@ Japanese practice files
 - Overview
 
 ```
-これは日本語を学習するための練習ファイルとなる README ファイルです。
+これは日本語を学習するための練習ファイルとなる 
 
-Kore wa nihongo o gakushū suru tame no renshū fairu to naru README fairudesu.
+README 
 
-This is a README file that will serve as my practice files for learning the Japanese language.
+ファイルです。
 ```
+
+`Kore wa nihongo o gakushū suru tame no renshū fairu to naru README fairudesu.`
+
+- This is a README file that will serve as my practice files for learning the Japanese language.
+
 
 ## ひらがな(Hiragana)
 
