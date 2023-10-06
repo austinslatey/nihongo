@@ -137,19 +137,19 @@ This is a README file that will serve as my practice files for learning the Japa
 |      -      |      -       |     -      |       -    |      -       |    -     |
 |    彼女    |    かのじょ    |   kanojo   |    -    |    she    |              |
 |      -      |       -      |     -      |      -     |       -      |    -     |
-|    あなた    |   あなた    |  anata   |    -    |   you (singular/normal)    |            |
+|    -    |   あなた    |  anata   |    -    |   you (singular/normal)    |            |
 |      -      |      -       |      -     |     -      |       -      |    -     |
-|    これ    |    これ    |   kore   |    -    |   this (noun)    |            |
+|    -    |    これ    |   kore   |    -    |   this (noun)    |            |
 |      -      |       -      |      -     |      -     |      -       |    -     |
-|    ここ    |    ここ    |   koko   |    -   |     here    |            |
+|    -    |    ここ    |   koko   |    -   |     here    |            |
 |      -      |      -       |     -      |      -     |     -        |    -     |
-|    この    |    この    |   kono    |    -    |    this (descriptive - ex. this pen)    |            |
+|    -    |    この    |   kono    |    -    |    this (descriptive - ex. this pen)    |            |
 |       -     |       -      |    -       |     -      |    -         |    -     |
-|    それ    |    それ    |   sore   |    -   |    that (noun)   |            |
+|    -    |    それ    |   sore   |    -   |    that (noun)   |            |
 |      -      |      -       |     -      |    -       |      -       |    -     |
-|   そこ    |    そこ    |    soko    |    -     |   there     |         |
+|   -    |    そこ    |    soko    |    -     |   there     |         |
 |      -      |       -      |      -     |     -      |        -     |    -     |
-|   その    |    その    |    sono    |    -      |    this (descriptive - ex. this pen)    |         |
+|   -   |    その    |    sono    |    -      |    this (descriptive - ex. this pen)    |         |
 |       -     |      -      |    -       |       -    |       -      |    -     |
 |    人  |      ひと      |   hito   |      -      |   person    |            |
 |      -      |       -      |    -      |     -      |      -       |    -     |
